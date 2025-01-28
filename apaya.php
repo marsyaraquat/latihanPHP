@@ -6,4 +6,8 @@ $c = "aku";
 $d = "imam";
 echo $c.$d;
 
+$sekarang=100*2;
+$kemarin="ini";
+echo $sekarang.$kemarin;
+
 
